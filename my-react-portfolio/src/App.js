@@ -1,8 +1,3 @@
-import React, { useState } from 'react';
-import About from './components/About';
-import Contact from './components/Contact';
-import Nav from './components/Nav';
-import Portfolio from './components/Portfolio';
 import logo from './logo.svg';
 import './App.css';
 
@@ -20,6 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Learn React
         </a>
       </header>
     </div>
